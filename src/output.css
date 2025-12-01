@@ -471,7 +471,7 @@
     }
     background-image: linear-gradient(var(--tw-gradient-stops));
   }
-  .bg-\[url\(\/img\/latar_bg.jpeg\)\] {
+  .bg-\[url\(\img\/latar_bg.jpeg\)\] {
     background-image: url("img/latar_bg.jpeg");
 }
 
